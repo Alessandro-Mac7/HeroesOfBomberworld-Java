@@ -1,0 +1,14 @@
+Ale 500
+Ale 650
+ciao 960
+ciao 390
+Marco 280
+Matteo 610
+Franceschino 910
+Milena 1780
+Milena 1000
+Milena 1950
+Ciao -60
+CIao -60
+Alex 340
+RecordSkill 690
